@@ -8,4 +8,5 @@ int main()
 	cout<<&c<<endl;
 	cout<<sizeof(&c)<<endl; // this line is to check size of the address
 	cout<<sizeof(c)<<endl;/* this line is to check size of variable itself*/
+	cout<<*&c<<endl;// the '*' operator is to get the content from the address//
 }
