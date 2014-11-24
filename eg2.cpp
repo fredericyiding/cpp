@@ -1,7 +1,7 @@
 #include<iostream>
 using std::cin;
 using std::cout;
-using std::endl;
+using std::endl;//better than "using namespace std" because you don't want to have a collision of names later. This is a general good habit.//
 
 int main()
 {
