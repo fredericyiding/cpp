@@ -1,3 +1,5 @@
+/* This file is to demonstrate how pointer works*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;
